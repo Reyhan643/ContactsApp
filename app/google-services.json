@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "792538267399",
+    "project_id": "contactsapp-1cfb2",
+    "storage_bucket": "contactsapp-1cfb2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792538267399:android:d04e5e0e3532cb70bd8fa2",
+        "android_client_info": {
+          "package_name": "com.example.firebasecontactcapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdgV7STmMaNsPDMtKoFvjTZVACe5g9HOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
