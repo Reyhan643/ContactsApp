@@ -1,0 +1,35 @@
+# =============== ANDROID & GRADLE ===============
+*.iml
+.gradle/
+build/
+captures/
+.externalNativeBuild/
+.idea/
+local.properties
+
+# =============== OS-SPECIFIC FILES ===============
+.DS_Store
+Thumbs.db
+
+# =============== LOGS & TEMP FILES ===============
+*.log
+*.tmp
+*.bak
+
+# =============== FIREBASE FILES ===============
+app/google-services.json
+firebase-debug.log
+
+# =============== SIGNING KEYS ===============
+*.jks
+*.keystore
+
+# =============== KOTLIN/INTELLIJ ===============
+*.class
+*.jar
+*.war
+*.apk
+*.ap_
+
+# =============== ENV CONFIG (kalau nanti pakai dotenv) ===============
+.env
